@@ -1,0 +1,17 @@
+{
+  "name": "lineman-lib-template",
+  "title": "An Lineman template for writing/testing javascript/coffeescript libraries",
+  "version": "0.0.1",
+  "private": true,
+  "author": {
+    "name": "David Conner",
+    "company": "@dcunit3d"
+  },
+  "dependencies": { 
+
+  },
+  "engines": {
+    "node": "~>0.10.5",
+    "npm": "~>1.2.18"
+  }
+}
