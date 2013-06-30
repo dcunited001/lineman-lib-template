@@ -11,10 +11,12 @@ This provides the basic configuration needed to start writing your library with 
 1. `lineman run`
   - tests will automatically runn
 
-### Running tests in a browser, if necessary
+### Running tests with testem
 
-1. `lineman spec`
+1. `lineman spec-ci`
 1. open your web browser to localhost:8000
+
+*Note: Can't quite get the tests running with `lineman spec`.  It just doesn't run any tests, also running with tap.*
 
 ### Changing configuration
 
